@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zihiwaveveca.pages.dev/sitemap.xml
